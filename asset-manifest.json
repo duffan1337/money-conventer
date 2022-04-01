@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/money-conventer/static/css/main.c2cabf07.css",
+    "main.js": "/money-conventer/static/js/main.efaba3e8.js",
+    "static/js/787.1acfd587.chunk.js": "/money-conventer/static/js/787.1acfd587.chunk.js",
+    "index.html": "/money-conventer/index.html",
+    "main.c2cabf07.css.map": "/money-conventer/static/css/main.c2cabf07.css.map",
+    "main.efaba3e8.js.map": "/money-conventer/static/js/main.efaba3e8.js.map",
+    "787.1acfd587.chunk.js.map": "/money-conventer/static/js/787.1acfd587.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cabf07.css",
+    "static/js/main.efaba3e8.js"
+  ]
+}
